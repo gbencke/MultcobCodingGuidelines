@@ -9,11 +9,11 @@ Esse CRM é utilizado tanto internamente nos Postos de Atendimento do CallCenter
     * Decisões de Projeto
     * Estrutura do codigo 
     * Componentes do Projeto
-* [Processos de Engenharia de Software](Processos.md "Processos"): 
+* [Engenharia de Software](Processos.md "Processos"): 
     * Ferramentas Utilizadas 
     * Gestão de Versões
     * Construção do Software 
-* [Convenções de Codificação](Convencoes.md "Convencoes"):
+* [Codificação](Convencoes.md "Convencoes"):
     * Nomenclatura de Variáveis e 
     * Codigo-Limpo, como usar, oque cuidar...
     * Orientação a Objetos e Design Patterns

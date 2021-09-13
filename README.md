@@ -14,7 +14,7 @@ Esse CRM é utilizado tanto internamente nos Postos de Atendimento do CallCenter
     * Gestão de Versões
     * Construção do Software 
 * [Codificação](Convencoes.md "Convencoes"):
-    * Nomenclatura de Variáveis e 
+    * Nomenclatura de Variáveis e Objetos
     * Codigo-Limpo, como usar, oque cuidar...
     * Orientação a Objetos e Design Patterns
  
